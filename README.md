@@ -1,6 +1,6 @@
 # LLMs
 
-# Hugging Face API Integrations with LangChain
+## Hugging Face API Integrations with LangChain
 
 This repository contains two Jupyter notebooks designed to demonstrate the integration of Hugging Face's API endpoints with LangChain for language model applications. Each notebook focuses on different aspects of using Hugging Face models, such as making basic API calls and integrating memory to enhance interactions with language models.
 
